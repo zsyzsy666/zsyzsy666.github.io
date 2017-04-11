@@ -1,0 +1,56 @@
+/*****************************/
+/* INSERT YOUR CSS CODE HERE */
+/*****************************/
+body {
+	color: #3B8686;
+	/*color: #0B486B;*/
+}
+
+.navbar-default{
+	background-color: #A8DBA8;
+}
+
+.jumbotron {
+	background-color: #A8DBA8;
+}
+
+.jumbotron .resume {
+	color: #79BD9A;
+	font-size: 24px;
+
+}
+
+.jumbotron img {
+	border-radius: 100%;
+	border: 10px solid white;
+}
+
+.section {
+	background-color: white;
+
+}
+
+.quote-section {
+	background-color: #A8DBA8;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+
+ /* Color palettes: http://www.colourlovers.com/palette/580974/Adrift_in_Dreams */
+}
+
+.quote-section .fa-quote-left {
+	color: white;
+}
+
+
+.col-sm-9 .name {
+	font-size: 10px;
+
+}
+
+img.resize{
+   width:250px;
+   height:250px;
+}
+
